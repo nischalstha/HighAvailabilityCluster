@@ -10,4 +10,5 @@ The designed protocol will perform the following functions:
 - To be able to detect when the failed node comes back to life
 - To inform other nodes about the availability of new node
 <br />
-## The protocl is designed to run in both Peer to Peer and Client-Server mode of HAC.
+
+## The protocol is designed to run in both Peer to Peer and Client-Server mode of HAC.
